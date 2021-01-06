@@ -2,7 +2,6 @@
 
 
 '스파르타코딩 크리스마스 특집: 나홀로코딩' (이범규)
-
 https://spartacodingclub.kr/online/xmas
 
 
